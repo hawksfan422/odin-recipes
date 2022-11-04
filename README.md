@@ -1,1 +1,2 @@
 # odin-recipes
+ODIN PROJECT - PRACTICING - FOR FUN
